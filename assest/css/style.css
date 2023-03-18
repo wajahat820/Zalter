@@ -1,0 +1,167 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  .navbar-nav{
+    margin-left: 200px;
+  }
+.nav-item a{
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+text-transform: uppercase;
+color: #FFFFFF;
+
+}
+.nav-item{
+    padding: 22px;
+}
+.well button{
+    background: linear-gradient(272.15deg, #C9203E 1.66%, #F6307C 35.49%, #F99A43 98.04%);
+    border-radius: 14px;
+    padding: 11px;
+}
+.well img{
+    border-radius: 10px;
+}
+body{
+    background-color: #221F3A !important;
+}
+.well button {
+    color: white;
+    margin-right: 11px;
+}
+#one{
+    padding: 100px 0;
+}
+#one h1{
+    color: white;
+    font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 96px;
+text-transform: capitalize;
+}
+#one button{
+    background: linear-gradient(272.15deg, #C9203E 1.66%, #F6307C 35.49%, #F99A43 98.04%);
+}
+#two{
+    margin-top: -15rem;
+
+}
+.slick-next{
+    display: none;
+}    
+.slick-prev{
+    display: none;
+}
+.slick-slide img{
+ width: 175px;
+}
+#three {
+    padding: 50px 0;
+}
+#three .yellow{
+    background-color: linear-gradient(272.15deg, #C9203E 1.66%, #F6307C 35.49%, #F99A43 98.04%); 
+}
+#four h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 72px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#four p{
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 30px;
+text-align: center;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+#four{
+ padding: 50px 0;   
+}
+#four img{
+    margin-top: 17px;
+}
+#five {
+    padding: 50px 0;
+}
+#five .green{
+    width: 45rem;
+    border: 2px solid orangered;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.green button{
+    border-radius: 30px;
+    padding: 7px 19px;
+    color: #FFFFFF;
+    margin-top: 8px;
+    margin-left: 16px;
+    background: linear-gradient(272.15deg, #C9203E 1.66%, #F6307C 35.49%, #F99A43 98.04%);
+}
+.green p{
+    font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+color: #FFFFFF;
+margin-left: 159px;
+text-align: inherit;
+margin-top: -35px;
+}
+#five h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px; 
+    text-transform: capitalize;
+    color: #FFFFFF;
+    text-align: center;
+}
+#six p{
+    margin-top: -31px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.333333px;
+    color: #FFFFFF;
+}
+#six h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 90px;
+    text-align: center;
+    letter-spacing: -1px;  
+    color: #FFFFFF;
+}
+#six .pink{
+    background: linear-gradient(272.15deg, #C9203E 1.66%, #F6307C 35.49%, #F99A43 98.04%);
+    border-radius: 15px;
+}
+#six .blue{
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+#six .blue h4{
+color: black;
+}
+#six .blue p{
+    color: black; 
+    margin-top: -31px;
+}
+.pink button{
+    text-align: center;
+} 
